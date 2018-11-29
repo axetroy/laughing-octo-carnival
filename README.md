@@ -5,7 +5,7 @@
 ## Usage
 
 ```bash
-go install github.com/axetroy/local-ip
+go get -v -u github.com/axetroy/local-ip
 ```
 
 ## Contributing
